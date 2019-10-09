@@ -1,2 +1,2 @@
 # tensorflow-yolov3
-An implementation of SENet with tensorflow2
+An implementation of yolov3 with tensorflow2
